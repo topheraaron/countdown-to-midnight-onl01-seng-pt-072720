@@ -8,3 +8,8 @@ def countdown(number)
   end
   return "HAPPY NEW YEAR!"
 end
+
+def contdown_with_sleep(sleep.5seconds)
+
+
+end
